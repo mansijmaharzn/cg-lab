@@ -2,8 +2,7 @@
 #include <conio.h>
 #include <graphics.h>
 
-int main()
-{
+int main() {
     int gdriver = DETECT, gmode, error, x0, y0, x1, y1;
     int dx, dy, p, x, y;
 
